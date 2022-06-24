@@ -4,7 +4,7 @@
 * @institute: IIIT Allahabad, INDIA
 *
 * @problem: https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/
-* @desc: Tree + dp + Bitmask
+* @desc: Tree + dp + Bitmask, Floyd Warshall algo
 * @logic: Trick here to find valid subtree:
     # For a valid subtree of n vertces no. of edges should be n-1
 *
